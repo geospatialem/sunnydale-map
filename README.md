@@ -8,7 +8,7 @@ A 'static' cartographic map of the city of Sunnydale, California from the Buffy 
 * I am hopeful that the effort will help non-cartographers understand the overall level of effort, in particular for conference discounts.
 * And obvs, 'cause why not!?
 
-|  Efforts    | Minutes:Hours (e.g. 00 hours:00 minutes)     |
+|  Efforts    | Hours:Minutes (e.g. 00 hours : 00 minutes)     |
 | :------------- | :------------- |
 | Research       |   02:00     |
 | Setup GitHub repository       | 00:15      |
