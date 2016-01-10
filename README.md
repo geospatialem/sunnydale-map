@@ -11,5 +11,6 @@ Because I am curious how long this project will take I will be updating a rough 
 |  Description    | Hours:Minutes (e.g. 00 hours : 00 minutes)     |
 | :------------- | :------------- |
 | Research       |   02:00     |
-| Setup GitHub repository       | 00:15      |
-| **_Total hours_**       | **_2:15_**       |
+| Setup GitHub repository       | 00:30      |
+| Research points of interest       | 02:00      |
+| **_Total hours_**       | **_4:30_**       |
