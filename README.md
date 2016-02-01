@@ -13,4 +13,6 @@ Because I am curious how long this project will take I will be updating a rough 
 | Research       |   02:00     |
 | Setup GitHub repository       | 00:30      |
 | Research points of interest       | 02:00      |
-| **_Total hours_**       | **_4:30_**       |
+| Research points and occurrences       | 03:00      |
+| Track occurrences in a spreadsheet       | 00:30      |
+| **_Total hours_**       | **_8:00_**       |
