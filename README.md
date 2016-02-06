@@ -15,4 +15,5 @@ Because I am curious how long this project will take I will be updating a rough 
 | Research points of interest       | 02:00      |
 | Research points and occurrences       | 03:00      |
 | Track occurrences in a spreadsheet       | 00:30      |
-| **_Total hours_**       | **_8:00_**       |
+| City limits boundary in Illustrator      | 01:00      |
+| **_Total hours_**       | **_9:00_**       |
