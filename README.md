@@ -19,4 +19,5 @@ Because I am curious how long this project will take I will be updating a rough 
 | Research, tracking, and reporting       | 02:00      |
 | Research, tracking, and reporting       | 03:00      |
 | Illustrator fun/struggles      | 02:00      |
-| **_Total hours_**       | **_16:00_**       |
+| Research      | 01:00      |
+| **_Total hours_**       | **_17:00_**       |
